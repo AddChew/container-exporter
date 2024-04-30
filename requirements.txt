@@ -1,0 +1,3 @@
+prometheus_client==0.20.0
+psutil==5.9.8
+uvicorn==0.29.0
